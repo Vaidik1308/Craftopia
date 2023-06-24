@@ -1,0 +1,796 @@
+{
+    "kitchen":[
+        {
+            "name":"kitchen",
+            "id":"1",
+            "sellername": "Classic Handmakers",
+            "productname":" Wooden Serving and Cooking Spoon Kitchen",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687531499/Craftopia/kitchen/k1_yq9oeg.jpg",
+            "productdetails":"Material: WOOD. It comes in an attractive finish. An ideal gift for a housewarming, Birthday or anniversary parties. Made with high durable quality Wood that gives you assurance of stability of item. Great for Home Decor, Office & Dorm, Decorative or gifting purpose.",
+            "costprice":"399",
+            "sellingprice":"99",
+            "rating":"4.1",
+            "productid":"k1"
+        },
+        {
+            "id":"2",
+            "sellername": "Classic Handmakers",
+            "productname":"GRAPHITE NAKIRI 170MM",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687531500/Craftopia/kitchen/k2_g74hvk.jpg",
+            "productdetails":"Thin, dark, and made for countless hours of vegetable chopping joy, this nakiri chef's knife was forged by hand in Suffolk, UK by bladesmith Leszek Sikon. With integral bolster construction, the knife balances nicely just at the blade's heel, the quite slim edge enjoying a solid 8.3oz / 234g overall weight behind it to support efficient, effortless push-pull cutting of veggies small and large.",
+            "costprice":"1299",
+            "sellingprice":"999",
+            "rating":"4.3",
+            "productid":"k2"
+        },
+        {
+            "id":"3",
+            "sellername": "Handi Kitchenware",
+            "productname":"Handmade Cooking Spoons",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687531499/Craftopia/kitchen/k3_djmw3w.jpg",
+            "productdetails":"These beautiful and strong wooden cooking spoons are handcrafted in Vermont by the artisans of Rockledge Farm Woodworks. They're made from the finest cherry wood, known for its smooth, reddish brown color and texture and high durability. ",
+            "costprice":"599",
+            "sellingprice":"499",
+            "rating":"3.9",
+            "productid":"k3"
+        },
+        {
+            "id":"4",
+            "sellername": "Jaipur Handicrafts",
+            "productname":"Wooden Floral Chapati Box Casserole",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687531500/Craftopia/kitchen/k4_ddcz6n.jpg",
+            "productdetails":"Beautifully handcrafted wooden chapati box/casserole made from high quality Sheesham wood. Clean with dry cloth. It is perfect for regular use and can be a unique gifting option as well. It is highly attractive box and has been designed to add Floral carving and style along with high utility. Made of seasonable Sheesham wood that will last for decades due to its look properties.",
+            "costprice":"1599",
+            "sellingprice":"999",
+            "rating":"4",
+            "productid":"k4"
+        },
+        {
+            "id":"5",
+            "sellername": "MittiHub",
+            "productname":"CLAY POT/MITTI KE BARTAN",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687531499/Craftopia/kitchen/k5_wmn9i8.jpg",
+            "productdetails":"Prepare a healthy bowl of curd in MITTIHUBs DAHI HANDI. Preparing curd in a clay DAHI HANDI has numerous advantages. It makes the curd thicker and richer by soaking in the excess water and also gives it an exquisite earthy aroma. ",
+            "costprice":"999",
+            "sellingprice":"599",
+            "rating":"4",
+            "productid":"k5"
+        },
+        {
+            "id":"6",
+            "sellername": "Store 51",
+            "productname":"WOODEN TRIANGULAR MUKHWAS FRESHENER",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687531500/Craftopia/kitchen/k6_qrtzgv.jpg",
+            "productdetails":"t helps to keep all the cutlery & dining essentials in one place organized & also enhances the look of the Dining Table, the design is so versatile that it can be used in a Cafe, Restaurant, or even in the kitchen as a Cutlery & Napkin.",
+            "costprice":"899",
+            "sellingprice":"689",
+            "rating":"3.7",
+            "productid":"k6"
+        },
+        {
+            "id":"7",
+            "sellername": "MittiHub",
+            "productname":"EARTHEN WATER JUG",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687531500/Craftopia/kitchen/k7_uofhi2.jpg",
+            "productdetails":"Drinking and serving water in a terracotta vessel means adding numerous health benefits to your water. Terracotta jug by MITTIHUB is intricately handcrafted by our potters with a contemporary touch to it. 100% ORGANIC.",
+            "costprice":"799",
+            "sellingprice":"499",
+            "rating":"4.1",
+            "productid":"k7"
+        },
+        {
+            "id":"8",
+            "sellername": "Store Jaipur",
+            "productname":"Roti Rolling Pin Board",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687531500/Craftopia/kitchen/k8_yftfqe.jpg",
+            "productdetails":"This handmade ceramic Rolling Board/Chakla for the frequently use in the kitchen to make roti, paratha or chapati. This perfectly finished base for a perfect balance and grip is a frequently useful & durable item for everyone and you can also use as a gift. This set is handmade with love, capturing and preserving the indigenous character of an ancient Indian ceramic culture. ",
+            "costprice":"399",
+            "sellingprice":"259",
+            "rating":"3.7",
+            "productid":"k8"
+        },
+        {
+            "id":"9",
+            "sellername": "Store 51",
+            "productname":"Ceramic Storage Vessel - Set Of 2",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687531500/Craftopia/kitchen/k9_moqgwu.jpg",
+            "productdetails":"Crafted of hand-thrown porcelain, the lidded canister is hand painted in timeless cobalt Mix Colors in beautiful floral pattern. He ceramic jar features sophisticated oriental inspiration mixed with modern technique that makes it one of a kind decor accent for any home. ",
+            "costprice":"789",
+            "sellingprice":"599",
+            "rating":"4.4",
+            "productid":"k9"
+        },
+        {
+            "id":"10",
+            "sellername": "MittiHub",
+            "productname":"TERRACOTTA TEA CUPS - SET OF 6",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687531499/Craftopia/kitchen/k10_uk4ovp.jpg",
+            "productdetails":"Enjoy your favorite cup of tea in MittihuBs terracotta tea/coffee mugs. These tea cups are handcrafted with a sleekly designed handle to provide the convenience that the urban lifestyle looks for in a coffee mug. Bring clay coffee mugs to your coffee table and give an authentic Indian look to the western coffee culture.",
+            "costprice":"599",
+            "sellingprice":"379",
+            "rating":"3.4",
+            "productid":"k10"
+        }
+        
+    ],
+    "homedecor":[
+        {
+            "name":"homedecor",
+            "id":"10",
+            "sellername": "MittiHub",
+            "productname":"PAPER CUTTING IN BLACK GLAZE PAPER",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687532180/Craftopia/homedecor/hd10_is5w5i.jpg",
+            "productdetails":"This sheet of paper is cut by hand with scissors - each takes many hours! It is the only work of art. without a frame. Will look great between two sheets of glass or contrast in the background. Done by hand with a craft blade, this beautiful wall decor is cut to precision.",
+            "costprice":"899",
+            "sellingprice":"789",
+            "rating":"3.4",
+            "productid":"hd10"
+        },
+        {
+
+            "id":"2",
+            "sellername": "SS Arts",
+            "productname":"VILLAGE WALL PAINTING",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687532181/Craftopia/homedecor/hd2_xt3t79.jpg",
+            "productdetails":"Sikki grass painting is a handicrafts that are made from a special kind of grass known as sikki found in Northern Bihar and is a folk Art of Mithila. Sikki the beautiful golden grasses are crafted into a pictures on handmade board. The sikki craft is known by its beautiful golden color, so it is also called as Golden Grass. Sikki is dried and the flower head is cut off. The resulting fine golden fibre is used in making lovely handcrafted Sikki grass culture paintings /wall hangings.",
+            "costprice":"6999",
+            "sellingprice":"5679",
+            "rating":"4.5",
+            "productid":"hd2"
+        },
+        {
+            "id":"3",
+            "sellername": "Creation India",
+            "productname":"SHEESHAM WOOD TABLE LAMP",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687532180/Craftopia/homedecor/hd3_mbw6hq.jpg",
+            "productdetails":"A captivating piece of art, this table lamp with attractive design is a masterpiece in wooden. Decorate the interior or exterior of your house with this beautiful lamp and relish the green-eyed stares of the onlookers. Comes with an on and off switch. Perfect ambient table lamps for living room, bedroom, dresser, baby room, nursery, study, cafe, bookcase, office, college dorm, shop window, restaurant, table, corridor, bar. ",
+            "costprice":"599",
+            "sellingprice":"499",
+            "rating":"3.9",
+            "productid":"hd3"
+        },
+        {
+            "id":"4",
+            "sellername": "Jodhpur Qala",
+            "productname":"DECORATIVE WOODEN TEMPLE",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687532181/Craftopia/homedecor/hd4_qewqrz.jpg",
+            "productdetails":"Inside dimensions of Temple Width: 13.5 Inch, Depth: 9 Inch, Height: 11 Inches. The outside dimension of Temple Width: 18 Inch, Depth:12 Inch, Height: 24 Inch. Drawer for keeping accessories. Wall mounted as well as it can be kept on flat floor.",
+            "costprice":"5999",
+            "sellingprice":"4699",
+            "rating":"3.8",
+            "productid":"hd4"
+        },
+        {
+            "id":"5",
+            "sellername": "SatyaDurga Artisan",
+            "productname":"HAND EMBROIDERED DECORATIVE FRAME",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687532181/Craftopia/homedecor/hd5_dpvg2f.jpg",
+            "productdetails":"Stylish handmade wall decor, A perfect unique item for your home. These embroidery hoops can be a good complement to interior not only on the wall, but also on the shelves and tables. Perfect looks in any interior and complements the atmosphere of home. This cute embroidery hoop art would make a perfect gift for your loved ones.",
+            "costprice":"999",
+            "sellingprice":"599",
+            "rating":"4",
+            "productid":"hd5"
+        },
+        {
+            "id":"6",
+            "sellername": "Store 51",
+            "productname":"TURTLE RESIN POT WITH HOLE AT BOTTOM FOR PLANTS",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687532181/Craftopia/homedecor/hd6_kt7ler.jpg",
+            "productdetails":"New collections! Ideal for adding a dash of refreshingly modern design to your home, Great Gift - this planter pot can serve a variety of purposes. Perfect gift for family and friends who love succulent plants with a green thumb or keep it in your own home for a touch of clean, modern style in your living space. ",
+            "costprice":"699",
+            "sellingprice":"449",
+            "rating":"3.4",
+            "productid":"hd6"
+        },
+        {
+            "id":"7",
+            "sellername": "Iskcon Handicrafts",
+            "productname":"BANSI WALE KRISHNA JI IDOL",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687532181/Craftopia/homedecor/hd7_griytm.jpg",
+            "productdetails":"Krishna, one of the most widely revered and popular of all Indian Gods, is considered as the eighth incarnation (avatar) of the Hindu god Vishnu and also as a supreme god in his own right. He is considered to be the most charming and enigmatic of all Hindu Gods. His words of wisdom to his staunch devotee Arjuna, during the war of Mahabharata, is the very edifice of the Hindu religion in the form of the timeless Bhagavad Gita. ",
+            "costprice":"579",
+            "sellingprice":"389",
+            "rating":"4.0",
+            "productid":"hd7"
+        },
+        {
+            "id":"8",
+            "sellername": "Store Jaipur",
+            "productname":"HAND EMBROIDERED WALL CLOCK",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687532182/Craftopia/homedecor/hd8_xupfxn.jpg",
+            "productdetails":"This cute hand embroidered clock will make any wall in your house look more cozy, warm and pretty! It's a great and functional wall hanging clock. This is a beautiful hand embroidered clock design perfect for any house. Each piece is designed and embroidered by talented artisans, making each piece unique! Embroidery hoops are a stylish addition to your home decor or even for a thoughtful gift. ",
+            "costprice":"399",
+            "sellingprice":"259",
+            "rating":"3.7",
+            "productid":"hd8"
+        },
+        {
+            "id":"9",
+            "sellername": "Store 51",
+            "productname":"HANDMADE DECORATIVE BAMBOO PLANT STAND ",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687532182/Craftopia/homedecor/hd9_lvvmae.jpg",
+            "productdetails":"Practical and handy addition to any home, decorative, natural, and beautiful. Unique material and shape, it is strong and light can be reused for a long time. This item is a classic and useful bamboo weaving baske. A perfect match for home decor. Natural and eco-friendly material, safe, hard, and durable for reusable use. Good gift choice for your friends and families, they will like it.",
+            "costprice":"399",
+            "sellingprice":"159",
+            "rating":"4.4",
+            "productid":"hd9"
+        },
+        {
+            "id":"1",
+            "sellername": "Arun Creations",
+            "productname":"INDIAN WOMAN PORTRAIT PAINTING",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687532181/Craftopia/homedecor/hd1_v2akpm.jpg",
+            "productdetails":"A beautiful canvas painting depicting an Indian woman. 100% Original Handmade Art, Painted on Canvas by a professional artist, using oil colors. This magnum painting will add charm to any dull walls at your home or offices. This artwork is intricately painted and every little detail is beautifully depicted.",
+            "costprice":"1799",
+            "sellingprice":"1289",
+            "rating":"4.1",
+            "productid":"hd1"
+        }
+    ],
+    "furniture":[
+
+        {
+            "name":"furniture",
+            "id":"1",
+            "sellername": "Furniture Simple",
+            "productname":"Solid Wood End Table (Finish Color - Brown, Pre-assembled)",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687533574/Craftopia/furniture/f1_lzxut8.png",
+            "productdetails":"A wooden roundtable is a circular piece of furniture typically made from various types of wood. It is designed to provide a functional and aesthetic centerpiece for a room or gathering space. The table's round shape promotes inclusivity and encourages conversation by allowing people to face each other easily. The wooden construction lends a natural and warm ambiance to the surroundings. Depending on the design, the table may feature intricate carvings, a smooth polished surface, or a more rustic finish that showcases the natural grain of the wood. ",
+            "costprice":"1799",
+            "sellingprice":"1289",
+            "rating":"4.1",
+            "productid":"f1"
+        },
+        {
+            "id":"2",
+            "sellername": "Maharaja",
+            "productname":"Three Seater Sofa In Teakwood With Walnut Finish Adorned With Dhokra Brass Frames",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687533573/Craftopia/furniture/f2_dngi68.jpg",
+            "productdetails":"The Traditional three seater is a modern example of serene beauty thats sure to liven up any room or decor. Handcrafted in premium Teak Wood and adorned with Dhokra frames, Maharaja I  elegantly complements any interior. It will bring a sophisticated and elegant look to your home. Its simple and svelte geometry makes it easier to divide a space, and its loft-style design blends the traditional and contemporary look for todays most modern castles.",
+            "costprice":"16999",
+            "sellingprice":"14779",
+            "rating":"4.5",
+            "productid":"f2"
+        },
+        {
+            "id":"3",
+            "sellername": "Niharika",
+            "productname":"Teak Wood Mirror Full Size In Walnut Finish",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687533573/Craftopia/furniture/f3_nldboc.jpg",
+            "productdetails":"This exquisitely handcrafted Mirror takes you to bygone era of Royalties. It's fine contour and detailed carvings give a very elegant and rich look to your living spaces. Just look into the frame to get a beautiful reflection.",
+            "costprice":"599",
+            "sellingprice":"499",
+            "rating":"3.9",
+            "productid":"f3"
+        },
+        {
+            "id":"4",
+            "sellername": "Jodhpur Qala",
+            "productname":"DECORATIVE WOODEN TEMPLE",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687533573/Craftopia/furniture/f4_myiio0.jpg",
+            "productdetails":"Inside dimensions of Temple Width: 13.5 Inch, Depth: 9 Inch, Height: 11 Inches. The outside dimension of Temple Width: 18 Inch, Depth:12 Inch, Height: 24 Inch. Drawer for keeping accessories. Wall mounted as well as it can be kept on flat floor.",
+            "costprice":"5999",
+            "sellingprice":"4699",
+            "rating":"3.8",
+            "productid":"f4"
+        },
+        {
+            "id":"5",
+            "sellername": "SatyaDurga Artisan",
+            "productname":"Armchair In Premium Teakwood Walnut Finish",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687533575/Craftopia/furniture/f5_nqb9pb.jpg",
+            "productdetails":"The Traditional Chair is a modern exle of serene beauty that’s sure to liven up any room or decor. Handcrafted in premium Teak Wood and adorned with Dhokra frames, Espa Armchair elegantly complements any interior. It will bring a sophisticated and elegant look to your home. Its simple and svelte geometry makes it easier to divide a space, and its loft-style design blends the traditional and contemporary look for today?s most modern castles. ",
+            "costprice":"999",
+            "sellingprice":"599",
+            "rating":"4",
+            "productid":"f5"
+        },
+        {
+            "id":"6",
+            "sellername": "Bengal Crafts",
+            "productname":"Bedside Table With Oriental Legs In Teakwood With Walnut Finish",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687533574/Craftopia/furniture/f6_tuzuq9.jpg",
+            "productdetails":"Get your furniture accentuated by this beautiful side table. Handcrafted Brass frames and Warli painting set beneath the Glass Top enhance the Nice curves and shape of the Table. This Teak wood table can be used in Living as well as Bed room. ",
+            "costprice":"699",
+            "sellingprice":"449",
+            "rating":"3.4",
+            "productid":"f6"
+        },
+        {
+            "id":"7",
+            "sellername": "WoodenStreet",
+            "productname":"Ottoman Cushioned Double Seater In Striped Wood Pattern Finished In Walnut Color",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687533575/Craftopia/furniture/f7_phadxf.jpg",
+            "productdetails":"This elegant three seater Ottoman is a fine amalgamation of traditional &; contemporary designs and suits every decor. Finely crafted in seasoned teakwood, its fine contour adorned with subtle art work, enhances the elegance of your Living Room.",
+            "costprice":"579",
+            "sellingprice":"389",
+            "rating":"4.0",
+            "productid":"f7"
+        },
+        {
+            "id":"8",
+            "sellername": "Mirzapur Handiworks",
+            "productname":"Indian Traditional Designer Red Polyester Area Carpet",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687533574/Craftopia/furniture/f8_ieqo5w.jpg",
+            "productdetails":" Allow your feet to sink into supreme delight with our premium quality polyester carpet. The attractive design imparts a sense of grandeur to any room. Light up your regular experience with our plush range of carpets. Made using high quality material, this carpet ensures long lasting performance and comes with perfectly finished edges. It is soft underfoot and looks like a beautiful piece of artwork for your floor rather than just a carpet.",
+            "costprice":"399",
+            "sellingprice":"259",
+            "rating":"3.7",
+            "productid":"f8"
+        },
+        {
+            "id":"9",
+            "sellername": "Merut HandWorks",
+            "productname":"Dura Barrel Single Chair With Cane Work",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687533575/Craftopia/furniture/f9_eimsp9.jpg",
+            "productdetails":"A premium wooden armchair represents the pinnacle of comfort, style, and craftsmanship. Meticulously crafted from the highest quality wood, it exudes an air of sophistication and refinement. The chair's frame is meticulously carved and shaped, showcasing the natural grain patterns and textures of the wood.",
+            "costprice":"13999",
+            "sellingprice":"11899",
+            "rating":"4.4",
+            "productid":"f9"
+        },
+        {
+            "id":"10",
+            "sellername": "Mirzapur HandWorks",
+            "productname":"Two Seater Coffee Table Set In Teakwood With Walnut Finish",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687533573/Craftopia/furniture/f10_gcub5q.jpg",
+            "productdetails":"A contemporary Two Seater Coffee Table with a touch of Art. Without eating into space, it looks nice as a beautiful Center Table as well as a coffee Table with two Seats ergonimically nested in. Crafted in premium Teak Wood, adorned with Warli and Dhokra Art, it is a collectors’ item.",
+            "costprice":"899",
+            "sellingprice":"789",
+            "rating":"3.4",
+            "productid":"f10"
+        }
+    ],
+    "fashion":[
+        {
+            "name":"fashion",
+            "id":"1",
+            "sellername": "Jaipur Handlooms",
+            "productname":"2pc Grey hand block print cotton silk dress material",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687534573/Craftopia/fashion/fa1_o1earp.png",
+            "productdetails":"The 2-piece grey hand block print cotton silk dress material combines the beauty of traditional craftsmanship with the elegance of cotton silk fabric. The dress material set includes two separate pieces - a fabric for the dress and a matching fabric for the dupatta (scarf). The fabric is crafted using the ancient technique of hand block printing, where skilled artisans intricately carve wooden blocks to create unique and intricate patterns. These blocks are then dipped in natural dyes and stamped onto the fabric, resulting in beautiful motifs and designs.",
+            "costprice":"3499",
+            "sellingprice":"2799",
+            "rating":"4.1",
+            "productid":"hd1"
+        },
+        {
+            "id":"2",
+            "sellername": "Banarasi Silk Co.",
+            "productname":"Purple pink handloom silk fekua jaal design banarasi saree",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687534573/Craftopia/fashion/fa2_ekjurz.png",
+            "productdetails":"The purple pink handloom silk fekua jaal design Banarasi saree is a stunning and exquisite piece of traditional Indian attire. It is crafted with precision and artistry, showcasing the rich heritage of Banarasi silk weaving. Made from handloom silk, this saree is known for its lustrous texture and luxurious feel. The combination of purple and pink hues adds a vibrant and enchanting touch to the overall design. The saree features a fekua jaal design, which is a delicate and intricate pattern that covers the entire fabric.",
+            "costprice":"16999",
+            "sellingprice":"14779",
+            "rating":"4.5",
+            "productid":"hd2"
+        },
+        {
+            "id":"3",
+            "sellername": "Niharika",
+            "productname":"Maroon handloom silk fekua booti meena banarasi saree",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687534574/Craftopia/fashion/fa3_gkkldo.png",
+            "productdetails":"The maroon handloom silk fekua booti meena Banarasi saree is a mesmerizing and luxurious garment that showcases the artistry of traditional Indian weaving. Made from handloom silk, this saree is renowned for its rich texture, smooth drape, and intricate craftsmanship. The deep maroon color exudes elegance and sophistication, making it a perfect choice for special occasions and festive celebrations. The saree features a fekua booti meena design, which combines delicate booti (small motifs) with meena work.",
+            "costprice":"8599",
+            "sellingprice":"7899",
+            "rating":"3.9",
+            "productid":"hd3"
+        },
+        {
+            "id":"4",
+            "sellername": "Keralite Handlooms",
+            "productname":"Pink gold green big border cotton handwoven mangalagiri saree",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687534574/Craftopia/fashion/fa4_icst3m.jpg",
+            "productdetails":"The pink, gold, and green handwoven Mangalagiri saree is a captivating and elegant garment that reflects the rich tradition of South Indian handloom weaving. Made from cotton, this saree is lightweight, breathable, and perfect for warm climates. The saree features a beautiful combination of pink, gold, and green hues, creating a harmonious and visually striking color palette. The border of the saree is adorned with a big, intricately woven design that adds a touch of grandeur and sophistication.",
+            "costprice":"5999",
+            "sellingprice":"4699",
+            "rating":"3.8",
+            "productid":"hd4"
+        },
+        {
+            "id":"5",
+            "sellername": "Keralite Handlooms",
+            "productname":"Lime green gold border cotton handwoven mangalagiri saree",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687534574/Craftopia/fashion/fa5_va8e38.png",
+            "productdetails":"The lime green handwoven Mangalagiri saree with a gold border is a stunning and vibrant piece of traditional Indian attire. Handcrafted by skilled weavers using the Mangalagiri weaving technique, this saree reflects the rich cultural heritage of South India. Made from cotton, the saree is lightweight and breathable, making it comfortable to wear even in warm weather. The lime green color exudes freshness and vitality, while the gold border adds a touch of opulence and elegance.",
+            "costprice":"3999",
+            "sellingprice":"2599",
+            "rating":"4",
+            "productid":"hd5"
+        },
+        {
+            "id":"6",
+            "sellername": "Bengal Crafts",
+            "productname":"Brandeis blue handloom cotton linen long kurta",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687534574/Craftopia/fashion/fa6_tjfsif.png",
+            "productdetails":"The Brandeis blue handloom cotton linen long kurta is a stylish and comfortable garment that combines the charm of handloom weaving with the natural appeal of cotton and linen fabrics. This long kurta is perfect for both casual and semi-formal occasions, offering a blend of sophistication and ease. The kurta is handloom-woven, reflecting the skill and artistry of traditional Indian craftsmanship. The Brandeis blue color adds a touch of elegance and versatility, making it suitable for various skin tones and personal styles.",
+            "costprice":"2699",
+            "sellingprice":"1749",
+            "rating":"3.4",
+            "productid":"hd6"
+        },
+        {
+            "id":"7",
+            "sellername": "JharCrafts",
+            "productname":"Mustard yellow handloom short cotton kurta",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687534573/Craftopia/fashion/fa7_tud807.png",
+            "productdetails":"The mustard yellow handloom short cotton kurta is a vibrant and charming garment that combines the beauty of handloom weaving with the comfort of cotton fabric. This short kurta is designed to offer a casual and relaxed style, perfect for everyday wear or casual occasions. Handloom-woven with care and precision, the kurta showcases the intricate artistry of traditional Indian craftsmanship. The mustard yellow color adds a cheerful and sunny touch, creating a refreshing and eye-catching look.",
+            "costprice":"3579",
+            "sellingprice":"2999",
+            "rating":"4.0",
+            "productid":"hd7"
+        },
+        {
+            "id":"8",
+            "sellername": "Rajasthan Handiworks",
+            "productname":"Ronin dark blue handcrafted cotton long kurta",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687534573/Craftopia/fashion/fa8_whdrgp.png",
+            "productdetails":"Basic handwoven, full sleeved, cotton long kurta in dark blue with mandarin collar and half placket. The kurta comes with two side pockets and one breast pocket and is an ideal choice for casual or smart occasion wear. The fabric has been handwoven for you by our weavers in Napasar, Rajasthan.",
+            "costprice":"399",
+            "sellingprice":"259",
+            "rating":"3.7",
+            "productid":"hd8"
+        },
+        {
+            "id":"9",
+            "sellername": "Merut HandWorks",
+            "productname":"Handwoven Sambalpuri Ikat Cotton Saree in Ball Blue and Black",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687534574/Craftopia/fashion/fa9_hsbkii.png",
+            "productdetails":"A traditional handwoven Sambalpuri cotton saree produced by the weavers of Sambalpur, Odisha. This saree comes in ball blue and blackcolour combination. Tie and dye technique used to design the motifs on the saree. Ikat motifs woven on the body with traditional rudraksha motifs have been woven on the border by dobby shedding device. Pallu has been woven with beautiful ikat motifs and multiple horizontal stripes. It has a black colour blouse piece, attached in running.",
+            "costprice":"13999",
+            "sellingprice":"11899",
+            "rating":"4.4",
+            "productid":"hd9"
+        },
+        {
+            "id":"10",
+            "sellername": "Madhaya Pradeshi Co.",
+            "productname":"Cream with Blue Handwoven Chanderi Sico Saree",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687534573/Craftopia/fashion/fa10_pro2is.png",
+            "productdetails":"A beautiful cream shade silk cotton chanderi saree, woven by the weavers at Chanderi, Madhya Pradesh. This exquisite saree is neatly woven with beautiful peacock buttis and patterns highlighted by golden zari and navy blue yarn on the saree body and the pallu. Plain golden tissue border on the edges renders an elegant fall to this beautiful sheer chanderi saree. ",
+            "costprice":"5899",
+            "sellingprice":"4999",
+            "rating":"3.4",
+            "productid":"hd10"
+        }
+    ],
+    "dailyneeds":[
+        {
+            "name":"dailyneeds",
+            "id":"1",
+            "sellername": "Heritage Co.",
+            "productname":"Kashmiri Paper Mache Pen / Pencil Holder",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687536793/Craftopia/dailyneeds/dn1_z1rckk.jpg",
+            "productdetails":"The Paper Mache art form originally from Persia, was initiated in Kashmir with the art of paper making and writing in the 15th century. Our exquisite pen stands with its old world elegance and charm leaves one mesmerised by the fine, intricate painting that adorns the item. These are exclusively hand crafted and hand painted by Kashmiri artists drawing inspiration from their beautiful legacy of art.",
+            "costprice":"499",
+            "sellingprice":"399",
+            "rating":"4.1",
+            "productid":"dn1"
+        },
+        {
+            "id":"2",
+            "sellername": "Classic Handmakers",
+            "productname":"Odisha Pattachitra Handpainted Stainless Steel Glass",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687536794/Craftopia/dailyneeds/dn2_urekpb.png",
+            "productdetails":"Spike up your kitchen style with these stylish kitchen accessories, made from stainless steel and painted with waterproof oil based paint.",
+            "costprice":"599",
+            "sellingprice":"279",
+            "rating":"4.5",
+            "productid":"dn2"
+        },
+        {
+            "id":"3",
+            "sellername": "Niharika",
+            "productname":"Small decorative Paper Mache Tray in Blue and White color",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687536794/Craftopia/dailyneeds/dn3_rxd1u2.png",
+            "productdetails":"Beautifully crafted using the paper mache technique, this exclusive tray in bright blue features a floral theme exquisitely hand painted using traditional methods. Use this charming paper mache tray as a functional server or as a decorative piece. ",
+            "costprice":"1599",
+            "sellingprice":"899",
+            "rating":"3.9",
+            "productid":"dn3"
+        },
+        {
+            "id":"4",
+            "sellername": "ASIANWorks Co.",
+            "productname":"Handcrafted Organic Water Hyacinth Cane Basket Medium",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687536794/Craftopia/dailyneeds/dn4_vg32q4.jpg",
+            "productdetails":"The pink, gold, and green handwoven Mangalagiri saree is a captivating and elegant garment that reflects the rich tradition of South Indian handloom weaving. Made from cotton, this saree is lightweight, breathable, and perfect for warm climates. The saree features a beautiful combination of pink, gold, and green hues, creating a harmonious and visually striking color palette. The border of the saree is adorned with a big, intricately woven design that adds a touch of grandeur and sophistication.",
+            "costprice":"5999",
+            "sellingprice":"4699",
+            "rating":"3.8",
+            "productid":"dn4"
+        },
+        {
+            "id":"5",
+            "sellername": "Maharaja",
+            "productname":"Bamboo Duck Multipurpose Basket",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687536793/Craftopia/dailyneeds/dn5_dszzk3.jpg",
+            "productdetails":"The Bamboo Duck Multipurpose Basket is a versatile and eco-friendly storage solution that combines the natural beauty of bamboo with functional design. This basket is designed to serve various purposes and can be used in different settings, adding both style and functionality. Crafted from bamboo, a sustainable and renewable resource, this basket is not only durable but also environmentally friendly. The natural color and texture of the bamboo create an organic and rustic aesthetic that complements a range of interior styles.",
+            "costprice":"699",
+            "sellingprice":"599",
+            "rating":"4",
+            "productid":"dn5"
+        },
+        {
+            "id":"6",
+            "sellername": "Nidhi Rathi and Sons Co.",
+            "productname":"Jacquard Geometric Woven Handbag",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687536793/Craftopia/dailyneeds/dn6_whjtly.png",
+            "productdetails":"The Jacquard Geometric Woven Handbag is a fashionable and eye-catching accessory that combines intricate jacquard weaving with a contemporary geometric design. This handbag is designed to make a statement and add a touch of sophistication to any outfit. The handbag is crafted using the jacquard weaving technique, which creates intricate and detailed patterns on the fabric. The geometric design adds a modern and edgy element to the overall look, making it a stylish choice for fashion-forward individuals.",
+            "costprice":"2699",
+            "sellingprice":"1749",
+            "rating":"3.4",
+            "productid":"dn6"
+        },
+        {
+            "id":"7",
+            "sellername": "Nidhi Rathi and Sons Co.",
+            "productname":"Chiyo Japanese Floral Print Sling Bag",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687536793/Craftopia/dailyneeds/dn7_atyrn1.png",
+            "productdetails":"The Chiyo Japanese Floral Print Sling Bag is a stylish and charming accessory inspired by the beauty of Japanese floral motifs. This sling bag effortlessly combines functionality and aesthetics, making it a versatile and trendy addition to your ensemble. The bag features a Japanese floral print design, showcasing delicate and vibrant flowers that are often found in traditional Japanese art. This print adds a touch of elegance and a hint of cultural flair to the overall look of the bag.",
+            "costprice":"3579",
+            "sellingprice":"2999",
+            "rating":"4.0",
+            "productid":"dn7"
+        },
+        {
+            "id":"8",
+            "sellername": "Assami Co.",
+            "productname":"Bamboo Lampshade Neon with Bulb",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687536793/Craftopia/dailyneeds/dn8_gngpn9.jpg",
+            "productdetails":"The Bamboo Lampshade Neon embodies the refined craftsmanship passed down through generations of skilled artisans. Inspired by the traditional star waving design, this pendant hanging light showcases the mastery of this gifted artistry. Impeccable craftsmanship infuses every detail of this lampshade, radiating elegance . To provide convenience, we include a two-meter double insulated twin coded wire and a holder with the handmade Lampshade Neon. Please note that bulbs are not included. The carefully treated bamboo used in manufacturing ensures durability and longevity.",
+            "costprice":"1199",
+            "sellingprice":"899",
+            "rating":"3.7",
+            "productid":"dn8"
+        },
+        {
+            "id":"9",
+            "sellername": "Small Hands",
+            "productname":"Woven Square Bamboo Planter",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687536793/Craftopia/dailyneeds/dn9_evgdfi.jpg",
+            "productdetails":"Enhance your indoor or outdoor space with the exquisite Woven Square Bamboo Planter. At Urbano, we have crafted the Woven Square Bamboo Planter with meticulous attention to detail, using high-quality bamboo that showcases its natural beauty and versatility.. With its square shape and intricately woven design, it adds a contemporary and eye-catching element to any setting. By opting for this bamboo planter, you contribute to a greener environment.",
+            "costprice":"13999",
+            "sellingprice":"11899",
+            "rating":"4.4",
+            "productid":"dn9"
+        },
+        {
+            "id":"10",
+            "sellername": "Assami Co.",
+            "productname":"Bamboo ninjacut tabletop planter",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687536793/Craftopia/dailyneeds/dn10_acp3db.jpg",
+            "productdetails":"This planter is handmade by our expert craftsmen using thick and matured bamboo from the Northeast of India. This uniquely design tabletop planter is a perfect centerpiece for your home decor. It has a stylish eye-catching design with two small bamboo rods at the bottom for support. It is appropriate for indoor and outdoor spaces such as the living room, patio, balcony or cover terraces.",
+            "costprice":"899",
+            "sellingprice":"499",
+            "rating":"3.4",
+            "productid":"dn10"
+        }
+    ],
+    "stationery":[
+        {
+            "name":"stationery",
+            "id":"1",
+            "sellername": "Heritage Co.",
+            "productname":"Fabric Cover Handmade Paper Notebook with Thread Lock",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687537469/Craftopia/stationery/s1_mkrjbi.jpg",
+            "productdetails":"A beautiful handmade journal to carry handwritten notes. These fabric-covered journals are handmade by our artisans, giving each one a unique spot.",
+            "costprice":"499",
+            "sellingprice":"399",
+            "rating":"4.1",
+            "productid":"hd1"
+        },
+        {
+            "id":"2",
+            "sellername": "Kashmiri Noor",
+            "productname":"Ajrakh Fabric Cover Handmade Paper Notebook with Thread Lock",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687537469/Craftopia/stationery/s2_z1su5t.jpg",
+            "productdetails":"The Ajrakh Fabric Cover Handmade Paper Notebook with Thread Lock is a unique and exquisite stationery item that combines the beauty of Ajrakh fabric with the charm of handmade paper. This notebook is meticulously crafted, resulting in a truly special and artistic piece.",
+            "costprice":"599",
+            "sellingprice":"279",
+            "rating":"4.5",
+            "productid":"hd2"
+        },
+        {
+            "id":"3",
+            "sellername": "Shaan Creative Arts",
+            "productname":"Handmade paper flowers and leaves (5 Packets)",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687537469/Craftopia/stationery/s3_isflhp.jpg",
+            "productdetails":"The Handmade Paper Flowers and Leaves (5 Packets) offer a delightful and artistic way to add a touch of natural beauty to your crafts, decorations, or DIY projects. These handmade paper flowers and leaves are carefully crafted, providing a unique and eco-friendly alternative to real flowers.Each packet typically contains a variety of paper flowers and leaves, featuring different shapes, sizes, and colors. The handmade nature of these items ensures that each piece is distinct and adds a charming handmade touch to your creations.",
+            "costprice":"1599",
+            "sellingprice":"899",
+            "rating":"3.9",
+            "productid":"hd3"
+        },
+        {
+            "id":"4",
+            "sellername": "Creation India",
+            "productname":"Designer PEN Hand crafted - set of 5 ",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687537468/Craftopia/stationery/s4_lug6vo.jpg",
+            "productdetails":"This unique Indian craft Handicraft can be perfect gift for any festival occasion Like Diwali and can also be used to decorate the house like study room, Hotel , Restaurant , Office Corporate Giftting, Marriage Anniversary, Wedding Gift",
+            "costprice":"599",
+            "sellingprice":"499",
+            "rating":"3.8",
+            "productid":"hd4"
+        },
+        {
+            "id":"5",
+            "sellername": "Art Attack",
+            "productname":"Levin Glass Dipped Pen Ink Set Handmade Crystal Calligraphy Pen with 12 Colorful india ink for Art",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687537468/Craftopia/stationery/s5_cwoumf.jpg",
+            "productdetails":"Perfect calligraphy pen set for beginners and advanced calligraphers. Mancola glass dip pen set includes 1 glass pens, 12 bottles of different color inks. Glass pen made of high borosilicate puffco glass, crystal glass material, excellent quality and craftsmanship . Looks very exquisite and beauty.",
+            "costprice":"3699",
+            "sellingprice":"3299",
+            "rating":"4",
+            "productid":"hd5"
+        },
+        {
+            "id":"6",
+            "sellername": "Penky",
+            "productname":"Ink Pen Wooden Fountain Pen",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687537468/Craftopia/stationery/s6_ln0cgr.jpg",
+            "productdetails":"Ink Pen Wooden Fountain Pen Write more thoughtful notes and letters using the Ink Pen Wooden Fountain Pen. This pen is available and made in different shades of wood handles.",
+            "costprice":"2699",
+            "sellingprice":"1749",
+            "rating":"3.4",
+            "productid":"hd6"
+        },
+        {
+            "id":"7",
+            "sellername": "Nidhi Rathi and Sons Co.",
+            "productname":"Handicraft Handmade Lakh Beads Work Ball Pen Set of 10",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687537468/Craftopia/stationery/s7_wwe2au.jpg",
+            "productdetails":"Exclusive Product made in Beads work for your pen stand to increase its value. It gives a traditional ethnic look to it & good for gifting as a return gift.",
+            "costprice":"3579",
+            "sellingprice":"2999",
+            "rating":"4.0",
+            "productid":"hd7"
+        },
+        {
+            "id":"8",
+            "sellername": "Assami Co.",
+            "productname":"Diary key chain set of 12 pc Key Chain (Multicolor)",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687537469/Craftopia/stationery/s8_tepefk.jpg",
+            "productdetails":"The Diary Key Chain Set of 12 Multicolored Key Chains offers a delightful and practical accessory for keeping your keys organized and easily identifiable. This set includes 12 key chains in various vibrant colors, allowing you to add a pop of color to your key collection. Each key chain in the set typically features a compact and lightweight design, making it convenient to carry your keys with you wherever you go. The multicolored assortment adds a playful and fun element, giving you options to match or coordinate with your personal style.",
+            "costprice":"699",
+            "sellingprice":"599",
+            "rating":"3.7",
+            "productid":"hd8"
+        },
+        {
+            "id":"9",
+            "sellername": "Penky",
+            "productname":"Vintage Chrome Plated Design Pen, Lasercut Feather Logo and Table Top Pen Stand Ball Pen (Blue)",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687537469/Craftopia/stationery/s9_u4ziz7.png",
+            "productdetails":"This Product is a Corporate, occasional or Festival Gift set for Professionals & Boss working in All Fields of Profession. This Product comes with a Chrome Plated Designer Metal Luxury Roller Ball Pen, A Lasercut Feather Logo and A Table Top Stand with pen holder. This is a Nice Gifting Set which will be loved and appreciated by one and All.",
+            "costprice":"999",
+            "sellingprice":"899",
+            "rating":"4.4",
+            "productid":"hd9"
+        },
+        {
+            "id":"10",
+            "sellername": "Bigsy Co.",
+            "productname":"Handmade Steampunk Pen Distressed Metal, handmade pen, handcrafted pen",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687537469/Craftopia/stationery/s10_eldyhs.png",
+            "productdetails":"Price is for ONE Pen! All pens are made to order and customized with distressed metal and high quality epoxy. These pens have a processing time of 5-7 business days due to curing times. The pen is a Paper Mate Ink Joy Gel, 0.7mm, medium point, black ink pen and REFILLABLE!!",
+            "costprice":"899",
+            "sellingprice":"699",
+            "rating":"3.4",
+            "productid":"hd10"
+        }
+    ],
+    "toysandgames":[
+        {
+            "name":"toysandgames",
+            "id":"1",
+            "sellername": "Sunrise Co.",
+            "productname":"Cottage plastic miniature garden toys - 2 pieces",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687538149/Craftopia/toysandgames/tg1_gfmadx.jpg",
+            "productdetails":"Get creative and give an interesting look to your garden with these amazing miniature toys. These adorable small toys are best to decorate your small gardens, terrariums, and many more. Keep them at your place, be creative and impart a lively look.",
+            "costprice":"499",
+            "sellingprice":"399",
+            "rating":"4.1",
+            "productid":"tg1"
+        },
+        {
+            "id":"2",
+            "sellername": "Woodchip",
+            "productname":"Wooden Stacking Toy",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687538149/Craftopia/toysandgames/tg2_hfpsnj.jpg",
+            "productdetails":"The lacquered toys of Etikoppaka, also known as 'lakkapidathalu' are handmade by Artisans from the village of Etikoppaka, in Andhra Pradesh. Unique aspects of these Toys: Plastic free natural materials, Practical skills attached to the Toys, Open ended, Pretend Play, culturally oriented and so on.",
+            "costprice":"599",
+            "sellingprice":"279",
+            "rating":"4.5",
+            "productid":"tg2"
+        },
+        {
+            "id":"3",
+            "sellername": "BoBo",
+            "productname":"Handpainted Handcrafted Indian Truck",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687538150/Craftopia/toysandgames/tg3_hczfsm.jpg",
+            "productdetails":"Handmade by artisans of India, Handcrafted with high quality woodBright, colorful decor/ toy item- Indian Truck. Great for Indian decor in homes, shops, restaurant, etc. Durable wooden toy/ home decor artifact. Actual product may have color or other variations than pictured",
+            "costprice":"699",
+            "sellingprice":"499",
+            "rating":"3.9",
+            "productid":"tg3"
+        },
+        {
+            "id":"4",
+            "sellername": "Jaipur Handicrafts",
+            "productname":"Eco friendly Toys Handcrafted Wooden Doll For Kids ",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687538149/Craftopia/toysandgames/tg4_jrkk1x.jpg",
+            "productdetails":"Handmade Wooden Nesting Dolls with 5 different Shape, Good Showpiece and Nice for Gifting Idea|Beautiful hand painted craft, Exquisite Russian Wooden Dolls.Great Birthday Christmas Gift for little Children or house decoration.The set of 5 dolls is made of wood material and with decreasing size placed one inside the other with fine craftsmanship and beautiful painting, it is a wonderful decoration for your room or a fantastic present for your kids. A Russian nesting/nested doll, refers to a set of wooden dolls of decreasing size placed one inside the other. Description: High quality and excellent handcrafted toys. It consists of 5 dolls, all smaller dolls are entering into bigger ones. Even the smallest one is delicated. ",
+            "costprice":"5999",
+            "sellingprice":"4699",
+            "rating":"3.8",
+            "productid":"tg4"
+        },
+        {
+            "id":"5",
+            "sellername": "Maharaja",
+            "productname":"Crafts India Handcrafted Wooden North East India Couple - 11 cms",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687538150/Craftopia/toysandgames/tg5_esn5vq.jpg",
+            "productdetails":"Handcrafted colorful wood toy by artists of Channapatna. Very attractive and kids love this toy. This can be used as Dussehra Decorative Dolls, good gift item as well as a show piece too. The toy is robust, lasts very long.",
+            "costprice":"699",
+            "sellingprice":"599",
+            "rating":"4",
+            "productid":"tg5"
+        },
+        {
+            "id":"6",
+            "sellername": "Nidhi Rathi and Sons Co.",
+            "productname":"Wooden Kitchen set toys for kids Choppu jaman set and kids chakla belan set",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687538151/Craftopia/toysandgames/tg6_n6nm3o.jpg",
+            "productdetails":"Choppu Jaman is a Traditional roll play toys for kids. All the 25 wooden utensils are made up of fine wood with polished edges and painted with harmless natural colors. With these wooden toys, the environment of your child will be pleasant and Eco-friendly. By giving these wooden toys you are not only helping your child to improve both physical skills and mental ability.",
+            "costprice":"699",
+            "sellingprice":"349",
+            "rating":"3.4",
+            "productid":"tg6"
+        },
+        {
+            "id":"7",
+            "sellername": "Soumya Makes",
+            "productname":"8 Inch Classic Vintage Wooden Toy Car",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687538151/Craftopia/toysandgames/tg7_cemyd9.jpg",
+            "productdetails":"The 8 Inch Classic Vintage Wooden Toy Car is a charming and nostalgic playtime companion that captures the essence of traditional craftsmanship and imaginative play. Crafted from high-quality wood, this vintage-inspired toy car features a sleek design, smooth rolling wheels, and intricate detailing that adds to its authenticity. Its compact size makes it easy for little hands to grasp and maneuver, stimulating their motor skills and creativity.",
+            "costprice":"1579",
+            "sellingprice":"999",
+            "rating":"4.0",
+            "productid":"tg7"
+        },
+        {
+            "id":"8",
+            "sellername": "Assami Co.",
+            "productname":"Decorative Handcrafted Miniature Of Metal Cycle",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687538151/Craftopia/toysandgames/tg8_thwdc3.jpg",
+            "productdetails":"This is Decorative Handcrafted Miniature Of Metal Cycle / Bicycle which can be used as a toy for kids. Unleash your child's creativity with this Decorative Handcrafted Miniature Of Metal Cycle / Bicycle in natural color which is lead free and not harmful for kids. This will be surely a treat for your little one. Completely handcrafted Decorative Handcrafted Miniature Of Metal Cycle / Bicycle made with metal and wood. The Decorative Handcrafted Miniature Of Metal Cycle / Bicycle from the house of BuzyKart is wonderfully replicated miniature in this solid iron art.",
+            "costprice":"1199",
+            "sellingprice":"499",
+            "rating":"3.7",
+            "productid":"tg8"
+        },
+        {
+            "id":"9",
+            "sellername": "Small Hands",
+            "productname":"Wooden Tank Toy for Baby 0-3 Years, Wood with Finishing ",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687538151/Craftopia/toysandgames/tg9_gjoev5.jpg",
+            "productdetails":"The Wooden Tank Toy for Baby 0-3 Years is a safe and engaging playtime option designed specifically for young children. Made from child-friendly, non-toxic wood with a smooth finishing, this toy tank is suitable for babies and toddlers aged 0 to 3 years. Its sturdy construction ensures durability, while its rounded edges provide added safety. The wooden tank's vibrant colors and simple design stimulate visual and tactile senses, encouraging sensory exploration and fine motor skill development.",
+            "costprice":"13999",
+            "sellingprice":"11899",
+            "rating":"4.4",
+            "productid":"tg9"
+        },
+        {
+            "id":"10",
+            "sellername": "Small Hands",
+            "productname":"Wooden Rabbit Toy for Baby 0-3 Yrs with Wire",
+            "imageurl":"https://res.cloudinary.com/dvuz0jdzl/image/upload/v1687538149/Craftopia/toysandgames/tg10_s7g9o8.png",
+            "productdetails":"The Wooden Rabbit Toy for Baby 0-3 Years with Wire is an adorable and interactive playtime companion designed to captivate the curiosity of young children. Made from child-safe wood, this toy features a charming rabbit design with a wire running through it. The wire element adds a unique sensory experience as babies and toddlers can twist and bend it, enhancing their fine motor skills and hand-eye coordination. The toy's smooth surface and rounded edges ensure safety during playtime. ",
+            "costprice":"899",
+            "sellingprice":"499",
+            "rating":"3.4",
+            "productid":"tg10"
+        }
+    ]
+}
